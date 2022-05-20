@@ -1,0 +1,70 @@
+@font-face {
+    font-family: 'Roboto';
+    src: url(http://fonts.gstatic.com/s/roboto/v15/mErvLBYg_cXG3rLvUsKT_fesZW2xOQ-xsNqO47m55DA.woff2);
+}
+.container {
+    background-image: url(images/Rectangle.png);
+   min-height: 50px;
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  }
+  .logo {
+    float: left;
+    color: #ffffff
+    padding: 10px 0px 0px 20px;
+    font-size: 24px;
+    line-height: 28.13px;
+    font-weight: 500;
+    font-family: Roboto;
+    color: white
+    margin-left: 20px;
+    margin-top: 10px;
+    float: left;
+  }
+
+  .navigation {
+    float: right;
+  }
+  nav ul {
+    margin-right: 20px;
+    margin-top: 10px;
+    padding: 0;
+    list-style: none;
+  }
+  nav li {
+    display: inline-block; /*один из способов разместить элементы в строку*/
+    font-size: 24px;
+    line-height: 28.13px;
+    font-weight: 500;
+    font-family: Roboto;
+    color: white
+    font-style: medium;
+  }
+
+.container:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.container {
+  
+  padding: 15px;
+  margin: 0 auto;
+}
+li {
+	border-right: 1px solid #ffffff;
+}
+li:last-child {
+	border-right: none
+}
+a {
+  text-decoration: none; /* Убирает подчеркивание для ссылок */
+ } 
+ a:link, a:visited {
+  color: #ffffff;
+}
+a:hover {
+  color: #ffffff;
+}
