@@ -21,7 +21,7 @@
     color: white
     margin-left: 20px;
     margin-top: 10px;
-    float: left;
+    
   }
 
   .navigation {
@@ -30,7 +30,7 @@
   nav ul {
     margin-right: 20px;
     margin-top: 10px;
-    padding: 0;
+    padding: 10px;
     list-style: none;
   }
   nav li {
@@ -55,6 +55,7 @@
 }
 li {
 	border-right: 1px solid #ffffff;
+  padding-left: 10px;
 }
 li:last-child {
 	border-right: none
@@ -68,3 +69,56 @@ a {
 a:hover {
   color: #ffffff;
 }
+.image {
+  background-image: url(images/image\ \(4\).png);
+  min-height: 400px;
+  background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+position: relative;
+
+
+}
+.PiperNet {
+ 
+  color: white;
+  font-weight: bold;
+  margin-top: auto;
+  margin-bottom: auto;
+  padding-top: 50px;
+  Font-family: Roboto;
+  Font-style: Medium;
+  Font-size: 100px;
+  line-height: 84.38px;
+  text-align: center;
+  
+}
+.main {
+    font-family: Roboto;
+    background-color: #eeeeee;
+    margin-top: auto;
+    margin-bottom: auto;
+    font-size: 0px;
+    margin-top: -50px;
+  }
+  h1 {
+    text-align: center;
+    color: #007765;
+    font-size: 64px;
+    font-style: medium;
+    line-height: 100%;
+    line-height: 75px;
+    vertical-align: top;
+    padding-top: 40px;
+  }
+  .text {
+    font-style: mixed;
+    font-size: 32px;
+    line-height: 37.5px;
+    line-height: 100%;
+    text-align: left;
+    vertical-align: top;
+    background-blend-mode: pass through;
+    padding: 0px 30px 20px 30px;
+    
+  }
