@@ -139,7 +139,48 @@ font-family: Roboto;
     text-align: center;
     vertical-align: top;
   }
-  blockquote {
-    
-    
-  }
+
+ .introducing {
+  margin-top: -50px;
+  margin-bottom: 30px;
+  margin-left: 20px;
+  padding: 5px 10px 30px 10px;
+ }
+ .circle {
+   float: left;
+   width: 115px;
+   height: 115px;
+   top: 1828px;
+   left: 55px;
+   background-blend-mode: pass through;
+  margin-right: 50px;
+  
+   
+ }
+ 
+
+ .logotip {
+  font-family: roboto;
+  font-style: mixed;
+  font-size: 32px;
+  line-height: 37.5px;
+  line-height: 100%;
+  text-align: left;
+  vertical-align: top;
+  font-weight: 400px;
+  width: 1800px;
+  
+  
+  
+}
+.texts {
+  font-family: roboto;
+  font-style: mixed;
+  font-size: 32px;
+  line-height: 37.5px;
+  line-height: 100%;
+  text-align: left;
+  vertical-align: top;
+  font-weight: 400px;
+  width: 1800px;
+}
