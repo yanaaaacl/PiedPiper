@@ -119,6 +119,27 @@ position: relative;
     text-align: left;
     vertical-align: top;
     background-blend-mode: pass through;
-    padding: 0px 30px 20px 30px;
+    padding: 0px 30px 60px 30px;
+    
+  }
+  .block {
+    background-image: url(images/image\ \(5\).png);
+    min-height: 400px;
+  background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+position: relative;
+margin-top: -40px;
+color:#ffffff;
+padding-top: 20px;
+font-family: Roboto;
+    font-style: medium italic;
+    font-size: 48px;
+    line-height: 56.25px;
+    text-align: center;
+    vertical-align: top;
+  }
+  blockquote {
+    
     
   }
