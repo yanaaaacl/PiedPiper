@@ -318,3 +318,134 @@ text-align: left;
 vertical-align: top;
 padding-left: 75px;
 }
+
+table.two_two {
+  margin-top: 50px;
+  margin-left: 146px;
+  margin-right: 145px;
+  
+}
+
+td.four_img {
+  width: 168px;
+  height: 168px;
+  top: 2472px;
+  left: 146px;
+  background-blend-mode: pass through;
+ padding-right: 250px;
+ 
+}
+td.five_img {
+  width: 168px;
+  height: 168px;
+  top: 2472px;
+  left: 526px;
+  background-blend-mode: pass through;
+  padding-right: 250px;
+  
+}
+td.six_img {
+  width: 168px;
+  height: 168px;
+  top: 2472px;
+  left: 906px;
+  background-blend-mode: pass through;
+ 
+}
+tr.five_tr {
+  color: #007765;
+ 
+  
+}
+th.four_h1 {
+width: 199px;
+height: 29px;
+top: 2652px;
+left: 132px;
+padding-left: 110px;
+padding-right: 60px;
+text-align: left;
+font-family: roboto;
+font-style: bold;
+font-size: 24px;
+line-height: 28.13px;
+vertical-align: top;
+
+
+
+}
+th.five_h1 {
+  width: 350px;
+height: 29px;
+top: 2652px;
+left: 435px;
+background-blend-mode: pass through;
+font-family: roboto;
+font-style: bold;
+font-size: 24px;
+line-height: 28.13px;
+text-align: left;
+vertical-align: top;
+
+background-blend-mode: pass through;
+padding-left: 100px;
+}
+th.six_h1 {
+  width: 350px;
+height: 29px;
+top: 2652px;
+left: 815px;
+background-blend-mode: pass through;
+font-family: roboto;
+font-style: bold;
+font-size: 24px;
+line-height: 28.13px;
+text-align: left;
+vertical-align: top;
+
+background-blend-mode: pass through;
+padding-left: 100px;
+}
+tr.six_tr {
+  color: #000000;
+}
+td.four_p {
+width: 118px;
+height: 22px;
+top: 2681px;
+left: 170px;
+font-family: roboto;
+font-style: italic;
+font-size: 18px;
+line-height: 21.09px;
+text-align: left;
+vertical-align: top;
+padding-left: 90px;
+padding-right: 60px;
+}
+td.five_p{
+  width: 350px;
+  height: 22px;
+  top: 2681px;
+  left: 435px;
+  font-family: roboto;
+  font-style: italic;
+  font-size: 18px;
+  line-height: 21.09px;
+  text-align: left;
+  vertical-align: top;
+  padding-left: 85px;
+}
+td.six_p {
+    width: 350px;
+    height: 22px;
+    top: 2681px;
+    left: 815px;
+    font-family: roboto;
+font-style: italic;
+font-size: 18px;
+line-height: 21.09px;
+text-align: left;
+vertical-align: top;
+padding-left: 120px;
+}
