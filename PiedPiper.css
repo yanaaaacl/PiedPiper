@@ -187,6 +187,7 @@ font-family: Roboto;
 .team {
   background-color: #eeeeee;
   margin: -30px;
+  margin-bottom: 100px;
 }
 table.one {
   margin-top: 50px;
@@ -448,4 +449,32 @@ line-height: 21.09px;
 text-align: left;
 vertical-align: top;
 padding-left: 120px;
+padding-bottom: 100px;
+}
+footer {
+  background-color: #333333;
+  margin-top: -100px;
+  
+  margin-right: -100px;
+  
+  padding-left: 700px;
+  padding-right: 340px;
+  margin-bottom: -50px;
+  margin-left: -50px;
+  
+}
+p.footer_f {
+  width: 540px;
+  height: 64px;
+  top: 3186px;
+  left: 340px;
+  background-blend-mode: pass through;
+  font-family: roboto;
+  font-style: regular;
+  font-size: 18px;
+  line-height: 21.09px;
+  text-align: center;
+  vertical-align: top;
+  color: #ffffff
+  
 }
