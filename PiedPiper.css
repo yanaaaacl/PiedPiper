@@ -456,7 +456,8 @@ footer {
   margin-top: -100px;
   
   margin-right: -100px;
-  
+  padding-top: 30px;
+  padding-bottom: 30px;
   padding-left: 700px;
   padding-right: 340px;
   margin-bottom: -50px;
@@ -475,6 +476,7 @@ p.footer_f {
   line-height: 21.09px;
   text-align: center;
   vertical-align: top;
-  color: #ffffff
+  color: #ffffff;
+  
   
 }
